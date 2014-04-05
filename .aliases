@@ -1,3 +1,9 @@
+#coding
+alias localhost="python -m SimpleHTTPServer 8080"
+alias actionhero-debug="node --debug ./node_modules/actionhero/bin/actionhero start"
+alias actionhero="./node_modules/actionhero/bin/actionhero start"
+
+
 # Easier navigation: .., ..., ...., ....., ~ and -
 alias ..="cd .."
 alias ...="cd ../.."
